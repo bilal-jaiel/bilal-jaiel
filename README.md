@@ -10,8 +10,8 @@ I'm looking for a 6-month end-of-studies internship starting in April 2027.
 
 | Project | What it shows |
 |---|---|
+| [polimillionaire-llm](https://github.com/bilal-jaiel/polimillionaire-llm) | LLM system playing a quiz game: prompting strategies, RAG on Wikipedia, tool use with code execution, Whisper speech interface |
 | [sepsis-early-detection-mimic](https://github.com/bilal-jaiel/sepsis-early-detection-mimic) | Early sepsis detection on MIMIC-IV: clinical data, waveforms and notes mapped to OMOP, XGBoost risk model, clinical explorer |
-| [polimillionaire-llm](https://github.com/bilal-jaiel/polimillionaire-llm) | Open-weight LLMs on a quiz game: prompting, RAG on Wikipedia, tool use, Whisper speech interface |
 | [online-learning-application](https://github.com/bilal-jaiel/online-learning-application) | Multi-armed bandits for budget-constrained bidding, implemented from scratch |
 | [Breast-Cancer-Outcome-Prediction](https://github.com/bilal-jaiel/Breast-Cancer-Outcome-Prediction) | High-dimensional genomic data in R: imputation, Lasso, gene screening, Random Forest |
 | [kepler-exoplanet-analysis](https://github.com/bilal-jaiel/kepler-exoplanet-analysis) | Multivariate statistics and clustering on the NASA Kepler catalogue |
@@ -27,7 +27,7 @@ I'm looking for a 6-month end-of-studies internship starting in April 2027.
 | [polyomino-tiling-solver](https://github.com/bilal-jaiel/polyomino-tiling-solver) | Exact tilings by linear algebra, Diophantine equations and a parity argument |
 | [internship-offer-monitor](https://github.com/bilal-jaiel/internship-offer-monitor) | Automated job-offer monitoring with public ATS APIs and GitHub Actions |
 
-Python · R · C · C++ · PyTorch · Hugging Face Transformers · Ollama · sentence-transformers · scikit-learn · TensorFlow / Keras · pandas
+Python · R · SQL (PostgreSQL) · C · C++ · PyTorch · Hugging Face Transformers · Ollama · sentence-transformers · scikit-learn · XGBoost · TensorFlow / Keras · pandas
 
 French · English · Spanish
 
