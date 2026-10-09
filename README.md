@@ -10,6 +10,7 @@ I'm looking for a 6-month end-of-studies internship starting in April 2027.
 
 | Project | What it shows |
 |---|---|
+| [sepsis-early-detection-mimic](https://github.com/bilal-jaiel/sepsis-early-detection-mimic) | Early sepsis detection on MIMIC-IV: clinical data, waveforms and notes mapped to OMOP, XGBoost risk model, clinical explorer |
 | [polimillionaire-llm](https://github.com/bilal-jaiel/polimillionaire-llm) | Open-weight LLMs on a quiz game: prompting, RAG on Wikipedia, tool use, Whisper speech interface |
 | [online-learning-application](https://github.com/bilal-jaiel/online-learning-application) | Multi-armed bandits for budget-constrained bidding, implemented from scratch |
 | [Breast-Cancer-Outcome-Prediction](https://github.com/bilal-jaiel/Breast-Cancer-Outcome-Prediction) | High-dimensional genomic data in R: imputation, Lasso, gene screening, Random Forest |
