@@ -1,15 +1,10 @@
 ### Hi, I'm Bilâl Jaiel
 
-Final-year student in a double degree: engineering diploma at ENSIIE and M2 in Data Science at Université Paris-Saclay, after an exchange semester at Politecnico di Milano. I build applied AI systems: LLM pipelines, retrieval-augmented generation and agents that turn models into tools people actually use.
+Engineering student at ENSIIE, also completing an M2 in Data Science at Université Paris-Saclay (double degree), after an exchange semester at Politecnico di Milano. I build applied AI systems: LLM pipelines, retrieval-augmented generation and agents.
+
+Internships: agentic AI for railway signalling at Alstom Transport (2026), then computer vision R&D at Safran Electronics & Defense.
 
 I'm looking for a 6-month end-of-studies internship from early 2027, in Applied AI, LLM or AI engineering.
-
-#### Experience
-
-| | |
-|---|---|
-| Alstom Transport, 2026 | Agentic AI pipeline for railway signalling: it reads system specifications, extracts the requirements, retrieves similar cases among 3,000+ historical requirement and test pairs, and drafts the verification test documents with a local LLM (Qwen3-32B), fully on-premise |
-| Safran Electronics & Defense | Computer vision R&D internship |
 
 #### AI, machine learning and statistics
 
