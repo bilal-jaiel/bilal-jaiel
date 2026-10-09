@@ -1,10 +1,10 @@
 ### Hi, I'm Bilâl Jaiel
 
-Engineering student at ENSIIE, also completing an M2 in Data Science at Université Paris-Saclay (double degree), after an exchange semester at Politecnico di Milano. I build applied AI systems: LLM pipelines, retrieval-augmented generation and agents.
+Final-year engineering student at ENSIIE (Mines-Télécom), in a dual degree with the M2 Data Science of Université Paris-Saclay, after an exchange semester at Politecnico di Milano. I design AI systems end to end, from raw data to tools people use, with a focus on LLMs, retrieval-augmented generation and agents.
 
-Internships: agentic AI for railway signalling at Alstom Transport (2026) and computer vision R&D at Safran Electronics & Defense.
+As an AI Engineer intern at Alstom, I designed an NLP and generative AI engine that writes test cases from the functional specifications of railway supervision software. Before that, at Safran Electronics & Defense, I used computer vision to automate an optical test bench for aircraft cockpit displays.
 
-I'm looking for a 6-month end-of-studies internship from early 2027, in Applied AI, LLM or AI engineering.
+I'm looking for a 6-month end-of-studies internship starting in April 2027.
 
 #### AI, machine learning and statistics
 
